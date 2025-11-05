@@ -1,0 +1,10 @@
+# Rust
+target/
+**/target/
+*.exe
+*.pdb
+*.dll
+*.obj
+ECHO is on.
+# VS Code
+.vscode/
